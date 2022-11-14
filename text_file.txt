@@ -1,0 +1,13 @@
+Hello
+this is a file that I am using to test file handling
+line 3 to check the readline methoda
+a new line in the text file has been added from python
+a new line in the text file has been added from python
+a new line in the text file has been added from python
+a new line in the text file has been added from python
+a new line in the text file has been added from python
+a new line in the text file has been added from python
+a new line in the text file has been added from python
+a new line in the text file has been added from python
+a new line in the text file has been added from python
+a new line in the text file has been added from python
